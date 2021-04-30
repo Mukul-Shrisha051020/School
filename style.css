@@ -1,0 +1,48 @@
+#marqueestyle {
+    background-color: crimson;
+    color: white;
+    font-size: 30px;
+}
+
+.announcement iframe {
+    margin-top: 20px;
+    border: whitesmoke 10px ridge;
+}
+
+.hr1 {
+    width: 50%;
+}
+
+.campus {
+    border: springgreen 5px solid;
+    width: fit-content;
+    padding: 5px;
+    margin: 70px;
+}
+
+.campus h3 {
+    margin-top: 50px;
+}
+
+.avengers {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+}
+
+.movie_head i {
+    float: right;
+}
+
+#s {
+    color: orange;
+}
+
+.header {
+    line-height: 2;
+}
